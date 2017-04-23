@@ -1,2 +1,2 @@
 # GOOD-STORE
- This is Course project on Java Spring MVC made by Puchkova V.
+ There are Course project on Java Spring MVC made by Puchkova V.
